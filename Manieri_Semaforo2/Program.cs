@@ -30,7 +30,7 @@ namespace Manieri_Semaforo2
         {
             Console.WriteLine("Inserire primo numero intero");
             int a = int.Parse(Console.ReadLine());
-            Console.WriteLine("Inserire primo numero intero");
+            Console.WriteLine("Inserire primo numero intero"); 
             int b = int.Parse(Console.ReadLine());
 
             s = a + b;
